@@ -1,5 +1,5 @@
 # EIT Image Reconstruction Algorithm
-This is a submission for the [Kuopio Tomography Challenge](https://www.fips.fi/KTC2023.php). 
+This is a submission for the [Kuopio Tomography Challenge](https://www.fips.fi/KTC2023.php).
 
 ## Authors
 - Amal Mohammed A Alghamdi (DTU), Denmark
@@ -38,10 +38,10 @@ python main.py path/to/input/files path/to/output/files difficulty
 ## Examples
 |  Phantom 	|  Ref	| Level 1 	| Level 4 	| Level 7 	|
 |----------	|-----	|---	|---	|---	|
-|**a**| ![](results/01.png)	| ![](results/11.png)	|  ![](results/41.png) 	|   ![](results/71.png)	|   
+|**a**| ![](results/01.png)	| ![](results/11.png)	|  ![](results/41.png) 	|   ![](results/71.png)	|
 |**b**| ![](results/02.png)	| ![](results/12.png)	|  ![](results/42.png) 	|   ![](results/72.png)	|
 |**c**| ![](results/03.png)	| ![](results/13.png)	|  ![](results/43.png) 	|   ![](results/73.png)	|
-|**d**| ![](results/04.png)	| ![](results/14.png)	|  ![](results/44.png) 	|   ![](results/74.png)	|  
+|**d**| ![](results/04.png)	| ![](results/14.png)	|  ![](results/44.png) 	|   ![](results/74.png)	|
 
 Scores for each phantom and difficulty 1,4 and 7:
 **TODO: ADD SCORES FOR EACH ALGORITHM**
